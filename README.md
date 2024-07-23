@@ -8,11 +8,6 @@ This repository contains a Convolutional Neural Network (CNN) model for recogniz
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
