@@ -15,6 +15,9 @@ Facial Emotion Recognition is a task of recognizing the emotions expressed on hu
 
 ## Dataset
 
+![Screenshot 2024-08-10 124537](https://github.com/user-attachments/assets/3d3a30fd-e65b-4425-a9d9-c2aa9bf24f14)
+
+
 The FER-2013 dataset consists of 35,887 grayscale, 48x48 sized face images with seven emotion labels: 
 - Angry
 - Disgust
